@@ -21,8 +21,8 @@ iframe {
     max-height: 100%;
 }
 .carousel {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 ul.slides {
